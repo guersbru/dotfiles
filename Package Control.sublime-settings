@@ -8,10 +8,13 @@
     "Emmet",
     "ERB Snippets",
     "Git",
-    "GitGutter",
+    "Latest Migration",
+    "MagicPython",
     "Package Control",
     "SCSS",
     "SublimeLinter",
-    "SublimeLinter-rubocop"
+    "SublimeLinter-rubocop",
+    "BracketHighlighter",
+    "Color Highlight"
   ]
 }
